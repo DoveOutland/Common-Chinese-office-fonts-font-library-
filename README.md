@@ -7,6 +7,7 @@
 * 大标宋体
 * 小标宋体
 * 黑体
+* Times New Roman
 * 仿宋_GB2312、楷体_GB2312、方正小标宋简体、方正楷体_GBK等
 
 ## 字体文件
@@ -91,6 +92,7 @@ This document provides installation instructions for various font files in TTF f
 * Fangsong
 * Kaiti
 * Heiti
+* Times New Roman
 * Fangsong_GB2312、Kaiti_GB2312、Founder Small Standard Song Simplified、Square regular script_GBK等
 
 ## Font Files
