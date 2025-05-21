@@ -11,15 +11,23 @@
 * 仿宋_GB2312、楷体_GB2312、方正小标宋简体、方正楷体_GBK等
 
 ## 字体文件
+需自行安装的字体，按照安装说明操作
+| 字体   | 名称   | 广商   | 字符集 | 备注                       |
+|--------|--------|--------|--------|----------------------------|
+| 宋体   | 宋体   | 中易   | GB18030 | 简体中文版 Windows 7及以后的版本的系统自带 |
+| 大标宋体 | 方正大标宋简体 | 方正   | GB2312 | 需自行安装                 |
+| 小标宋体 | 方正小标宋简体 | 方正   | GB2312 | 需自行安装                 |
+| 仿宋   | 仿宋   | 中易   | GB18030 | 简体中文版 Windows 7及以后的版本的系统自带 |
+| 仿宋   | 方正仿宋简体 | 方正   | GB2312 | 需自行安装                 |
+| 仿宋   | 方正仿宋_GBK | 方正   | GBK    | 需自行安装                 |
+| 楷体   | 楷体   | 中易   | GB18030 | 简体中文版 Windows 7及以后的版本的系统自带 |
+| 楷体   | 楷体_GB2312 | 长城   | GB2312 | 需自行安装                 |
+| 楷体   | 方正楷体简体 | 方正   | GB2312 | 需自行安装                 |
+| 楷体   | 方正楷体_GBK | 方正   | GBK    | 需自行安装                 |
+| 黑体   | 黑体   | 中易   | GB18030 | 简体中文版 Windows 7及以后的版本的系统自带 |
+| 黑体   | 方正黑体简体 | 方正   | GB2312 | 需自行安装                 |
+| 黑体   | 方正黑体_GBK | 方正   | GBK    | 需自行安装                 |
 
-| 字体类型 | 字体名称    | 厂商 | 字符集     | 备注                          |
-| ---- | ------- | -- | ------- | --------------------------- |
-| 宋体   | 宋体      | 中易 | GB18030 | 简体中文版本 Windows 7 及以后的版本系统自带 |
-| 大标宋体 | 方正大标宋简体 | 方正 | GB2312  | 需自行安装                       |
-| 小标宋体 | 方正小标宋简体 | 方正 | GB2312  | 需自行安装                       |
-| 仿宋   | 方正仿宋简体  | 方正 | GB2312  | 需自行安装                       |
-| 楷体   | 方正楷体简体  | 方正 | GB2312  | 需自行安装                       |
-| 黑体   | 方正黑体简体  | 方正 | GB2312  | 需自行安装                       |
 
 ## 安装说明
 
@@ -96,15 +104,23 @@ This document provides installation instructions for various font files in TTF f
 * Fangsong_GB2312、Kaiti_GB2312、Founder Small Standard Song Simplified、Square regular script_GBK等
 
 ## Font Files
+Fonts that need to be installed by yourself, follow the installation instructions
+| Font   | Name   | Vendor   | Character Set | Notes                       |
+|--------|--------|----------|---------------|-----------------------------|
+| Songti | Songti | Zhongyi  | GB18030       | Simplified Chinese version for Windows 7 and later system pre-installed |
+| Large Songti | Fangzheng Large Song Simplified | Fangzheng | GB2312       | Requires manual installation |
+| Small Songti | Fangzheng Small Song Simplified | Fangzheng | GB2312       | Requires manual installation |
+| Fangsong | Fangsong | Zhongyi  | GB18030       | Simplified Chinese version for Windows 7 and later system pre-installed |
+| Fangsong | Fangzheng Fangsong Simplified | Fangzheng | GB2312       | Requires manual installation |
+| Fangsong | Fangzheng Fangsong_GBK | Fangzheng | GBK          | Requires manual installation |
+| Kaishu | Kaishu | Zhongyi  | GB18030       | Simplified Chinese version for Windows 7 and later system pre-installed |
+| Kaishu | Kaishu_GB2312 | Changcheng | GB2312       | Requires manual installation |
+| Kaishu | Fangzheng Kaishu Simplified | Fangzheng | GB2312       | Requires manual installation |
+| Kaishu | Fangzheng Kaishu_GBK | Fangzheng | GBK          | Requires manual installation |
+| Heiti  | Heiti  | Zhongyi  | GB18030       | Simplified Chinese version for Windows 7 and later system pre-installed |
+| Heiti  | Fangzheng Heiti Simplified | Fangzheng | GB2312       | Requires manual installation |
+| Heiti  | Fangzheng Heiti_GBK | Fangzheng | GBK          | Requires manual installation |
 
-| Font Type | Name               | Vendor    | Charset | Notes                                  |
-| --------- | ------------------ | --------- | ------- | -------------------------------------- |
-| Songti    | Songti             | Zhongyi   | GB18030 | Simplified Chinese Windows 7 and later |
-| Daziti    | Fangzheng Daziti   | Fangzheng | GB2312  | Self-installation required             |
-| Xiaoti    | Fangzheng Xiaoti   | Fangzheng | GB2312  | Self-installation required             |
-| Fangsong  | Fangzheng Fangsong | Fangzheng | GB2312  | Self-installation required             |
-| Kaiti     | Fangzheng Kaiti    | Fangzheng | GB2312  | Self-installation required             |
-| Heiti     | Fangzheng Heiti    | Fangzheng | GB2312  | Self-installation required             |
 
 ## Installation Instructions
 
